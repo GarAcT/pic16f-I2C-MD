@@ -1,4 +1,4 @@
-XC = "/Applications/microchip/xc8/v1.33/bin/xc8"
+XC = "xc8"
 
 TARGET_DEVICE = 16F1938
 TARGET_DIR = bin
